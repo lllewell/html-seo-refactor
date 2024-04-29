@@ -6,3 +6,9 @@ The motive of this project was to refactor the Horiseon webpage to increase SEO 
 
 
 ![alt text](assets/images/screenshot.png)
+
+## Links
+
+[Live URL](https://lllewell.github.io/html-seo-refactor/)
+
+[GitHub Repo](https://github.com/lllewell/html-seo-refactor)
